@@ -6,10 +6,10 @@ I got into programming a few years ago. Today, I know it’s what I want to do. 
 
 #### In my free time:
 
-🏃 I like to go for a run
-👊 I put on boxing gloves sometimes
-🎧 I listen to good podcasts
-📘 I read books
+- 🏃 I like to go for a run
+- 👊 I put on boxing gloves sometimes
+- 🎧 I listen to good podcasts
+- 📘 I read books
 
 #### I completed mentoring with [devmentor.pl](https://devmentor.pl/) I recommend it 💪
 #### I’m currently looking for job as junior front-end developer 😏
