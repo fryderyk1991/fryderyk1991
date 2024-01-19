@@ -5,6 +5,7 @@ I’m a front-end developer from Krakow, Poland.
 I got into programming a few years ago. Today, I know it’s what I want to do. I like creating things, it started with music and FL Studio. Sadly, music is just a memory now😢, but maybe I’ll go back to it sometime. Right now, all my free time goes into learning. I'm always improving my skills🤘🤘🤘
 
 #### In my free time:
+
 ⋅⋅* 🏃 I like to go for a run
 ⋅⋅* 👊 I put on boxing gloves sometimes
 ⋅⋅* 🎧I listen to good podcasts
